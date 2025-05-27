@@ -1,0 +1,2 @@
+cust1,101,suite,3,3000.0
+Customer,103,suite,4,4800.0

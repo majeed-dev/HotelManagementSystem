@@ -11,7 +11,7 @@ public class Main {
 
   
         ArrayList<User> users = new ArrayList<>();
-        users.add(new Admin("Majeed", "Mm1234", "admin one", "223111015@psu.edu.sa"));
+        users.add(new Admin("Majeed", "Mm1234", "admin one", example123@psu.edu.sa"));
 
         users.add(new Customer("Customer", "Cc1234", "cust", "cust@psu.edu.sa"));
 
